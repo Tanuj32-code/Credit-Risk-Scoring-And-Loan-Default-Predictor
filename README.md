@@ -1,13 +1,13 @@
 # Credit Risk Scoring & Loan Default Predictor
 
 ## Dataset
+- The dataset used in this project is included in the repository under '/data/credit_risk_dataset.csv'.
 - Source: [Kaggle Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
-- Included in '/data/credit_risk_dataset.csv' for reproducibility
 
 ## Dataset Overview
 - Loan dataset with **32K+ records** and **17 features**
 - Target variable: 'loan_status' (0 = Non-Default, 1 = Default)
-- Includes borrower demographics, loan amount, interest rate, and repayment history
+- Includes borrower loan amount, interest rate, and repayment history
 
 ## Data Preprocessing
 - Handled missing values and categorical encoding
