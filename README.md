@@ -35,13 +35,13 @@ Implemented and compared multiple ML algorithms:
 ![ROC Curve](images/roc_curve.png)
 
 ### Feature Importance - Random Forest
-![Random Forest Importance](images/rf_feature_importance.png)
+![Random Forest Importance](images/rf_feature_importance_Random_Forest.png)
 
 ### Feature Importance - LightGBM
-![LightGBM Importance](images/lgbm_feature_importance.png)
+![LightGBM Importance](images/rf_feature_importance_LightGBM.png)
 
 ### Feature Importance - XGBoost
-![XGBoost Importance](images/xgb_feature_importance.png)
+![XGBoost Importance](images/rf_feature_importance_XGBoost.png)
 
 ## Feature Importance Analysis
 - Identified top predictors of loan default:
