@@ -1,5 +1,9 @@
 # Credit Risk Scoring & Loan Default Predictor
 
+## Dataset
+- Source: [Kaggle Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
+- Included in '/data/credit_risk_dataset.csv' for reproducibility
+
 ## Dataset Overview
 - Loan dataset with **32K+ records** and **17 features**
 - Target variable: 'loan_status' (0 = Non-Default, 1 = Default)
