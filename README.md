@@ -2,7 +2,7 @@
 
 ## Dataset
 - Source: [Kaggle Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
-- Included in '/data/credit_risk_dataset.csv' for reproducibility
+- Included in credit_risk_dataset for reproducibility
 
 ## Dataset Overview
 - Loan dataset with **32K+ records** and **17 features**
