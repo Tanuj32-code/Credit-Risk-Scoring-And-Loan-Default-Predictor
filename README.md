@@ -26,6 +26,20 @@ Implemented and compared multiple ML algorithms:
 - Generated classification metrics: Accuracy, Precision, Recall, F1-score
 - Best performing model: **LightGBM** (ROC-AUC ≈ XX)
 
+### Highlights
+- Ensemble methods (XGBoost, LightGBM) outperformed baseline Logistic Regression  
+- **LightGBM achieved the highest ROC-AUC**, showing strong predictive power  
+- Key predictors of loan default: **Loan Amount, Interest Rate, Income**
+
+### ROC Curve Comparison
+![ROC Curve](images/roc_curve.png)
+
+### Feature Importance - Random Forest
+![Random Forest Importance](images/rf_feature_importance.png)
+
+### Feature Importance - LightGBM
+![LightGBM Importance](images/lgbm_feature_importance.png)
+
 ## Feature Importance Analysis
 - Identified top predictors of loan default:
   - Loan Amount
