@@ -40,6 +40,9 @@ Implemented and compared multiple ML algorithms:
 ### Feature Importance - LightGBM
 ![LightGBM Importance](images/lgbm_feature_importance.png)
 
+### Feature Importance - XGBoost
+![XGBoost Importance](images/xgb_feature_importance.png)
+
 ## Feature Importance Analysis
 - Identified top predictors of loan default:
   - Loan Amount
