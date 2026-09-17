@@ -32,16 +32,16 @@ Implemented and compared multiple ML algorithms:
 - Key predictors of loan default: **Loan Amount, Interest Rate, Income**
 
 ### ROC Curve Comparison
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Feature Importance - Random Forest
 ![Random Forest Importance](rf_feature_importance_Random_Forest.png)
 
 ### Feature Importance - LightGBM
-![LightGBM Importance](images/rf_feature_importance_LightGBM.png)
+![LightGBM Importance](rf_feature_importance_LightGBM.png)
 
 ### Feature Importance - XGBoost
-![XGBoost Importance](images/rf_feature_importance_XGBoost.png)
+![XGBoost Importance](rf_feature_importance_XGBoost.png)
 
 ## Feature Importance Analysis
 - Identified top predictors of loan default:
