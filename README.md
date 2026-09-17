@@ -35,7 +35,7 @@ Implemented and compared multiple ML algorithms:
 ![ROC Curve](images/roc_curve.png)
 
 ### Feature Importance - Random Forest
-![Random Forest Importance](images/rf_feature_importance_Random_Forest.png)
+![Random Forest Importance](rf_feature_importance_Random_Forest.png)
 
 ### Feature Importance - LightGBM
 ![LightGBM Importance](images/rf_feature_importance_LightGBM.png)
